@@ -23,8 +23,16 @@ a {
   color: #4d5ae5;
 }
 
+.header-logo {
+  margin-right: 76px;
+}
+
 .header-logo .logo-part {
   color: #2e2f42;
+}
+
+.footer-logo .logo-part {
+  margin-bottom: 16px;
 }
 
 .footer-logo .logo-part {
@@ -41,6 +49,13 @@ a {
 
 .contacts {
   font-style: normal;
+}
+
+.contacts-link {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .nav-link:hover,
@@ -101,6 +116,14 @@ a {
   color: #2e2f42;
 }
 
+.advantages-subtitle-item {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .our-team {
   background: #f4f4fd;
 }
@@ -123,6 +146,15 @@ a {
   color: #2e2f42;
 }
 
+.our-team-subtitle-item {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+
 .our-portfolio-title {
   font-weight: 700;
   font-size: 36px;
@@ -140,7 +172,17 @@ a {
   color: #2e2f42;
 }
 
+.our-portfolio-subtitle-item {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .page-footer-title {
+  font-weight: 400;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
@@ -148,7 +190,4 @@ a {
 
 .our-team-item {
   background-color: #ffffff;
-}
-.our-portfolio-title {
-  text-transform: capitalize;
 }
