@@ -43,13 +43,6 @@ a {
   font-style: normal;
 }
 
-.contacts-link {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
@@ -108,14 +101,6 @@ a {
   color: #2e2f42;
 }
 
-.advantages-subtitle-item {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
 .our-team {
   background: #f4f4fd;
 }
@@ -138,15 +123,6 @@ a {
   color: #2e2f42;
 }
 
-.our-team-subtitle-item {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #434455;
-}
-
 .our-portfolio-title {
   font-weight: 700;
   font-size: 36px;
@@ -164,19 +140,7 @@ a {
   color: #2e2f42;
 }
 
-.our-portfolio-subtitle-item {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
 .page-footer-title {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   color: #f4f4fd;
 }
 
